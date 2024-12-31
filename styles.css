@@ -1,0 +1,11 @@
+body {
+  background-image: url('cover.jpg'); /* Optional background image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+  backdrop-filter: blur(10px); /* Add blur effect to background */
+}
+
+/* styles.css */
+
